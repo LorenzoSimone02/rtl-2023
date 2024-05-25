@@ -4,7 +4,7 @@
 
 **Docente**: Gianluca Palermo
 
-**Valutazione** progetto: -/30
+**Valutazione progetto**: 30/30
 
 
 ## Specifica del progetto
